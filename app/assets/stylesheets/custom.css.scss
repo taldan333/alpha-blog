@@ -3,6 +3,7 @@ $navbar-default-bg: #243949;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+
 h2 {
   font-weight: bold;
 }
@@ -72,6 +73,10 @@ h2 {
   padding-bottom: 15px;
 }
 
+.listing {
+  list-style: none;
+  padding-left: 0;
+}
 
 footer {
   margin-top: 45px;
